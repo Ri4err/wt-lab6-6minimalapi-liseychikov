@@ -39,3 +39,9 @@
     "price": 0,
     "isAvaliable": true
   }
+
+  GitHub:
+https://github.com/Ri4err/wt-lab6-6minimalapi-liseychikov
+
+Render:
+https://wt-lab6-6minimalapi-liseychikov.onrender.com
