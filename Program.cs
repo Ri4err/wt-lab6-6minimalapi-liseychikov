@@ -12,7 +12,7 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-app.MapGet("/", () => "Minimal API работает");
+app.MapGet("/", () => "Minimal API работает. Это добавлення строчка кода");
 
 app.MapGet("/api/info", ()=>
 {
