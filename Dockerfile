@@ -18,4 +18,4 @@ COPY --from=build /app/publish .
 
 EXPOSE 10000
 
-ENTRYPOINT ["dotnet", "wt_lab6_6minimalapi_liseychikov.dll"]
+ENTRYPOINT ["dotnet", "wt-lab6-6minimalapi-liseychikov.dll"]
